@@ -1,0 +1,3 @@
+The work schedule for building the admin page is as follows:
+1. frontend engineer have to get the require prototype for the page
+2. backend engineer will focus on the bit manupulation of bits on the page.
