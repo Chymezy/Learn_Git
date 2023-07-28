@@ -1,0 +1,13 @@
+//pseudo code for calculating running total
+
+1) start program
+2) initialize variable list x = 0
+3) read input from user
+4) check IF inputs are number
+5) IF input is a number, THEN
+	initialize variabe sum = 0
+	intialize looping variable i 
+	sum = sum[i] + x[i]
+ 	print sum
+6) ELSE 
+	end program
